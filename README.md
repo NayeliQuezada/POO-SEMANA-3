@@ -12,6 +12,18 @@ Este repositorio contiene dos soluciones para un mismo problema utilizando difer
 - Programación Orientada a Objetos.
 
 Ambos programas permiten registrar y mostrar información básica de mascotas en Python
+## Estructura del proyecto
+
+```text
+programacion_tradicional/
+└── tradicional.py
+
+programacion_poo/
+├── mascota.py
+└── main.py
+```
+
+ 
 ### Programación tradicional
 
 La solución se desarrolla mediante funciones y variables. Los datos de la mascota son ingresados por teclado y posteriormente mostrados en pantalla sin utilizar clases ni objetos.
